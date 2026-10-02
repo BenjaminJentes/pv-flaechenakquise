@@ -27,6 +27,7 @@ bewusst nicht.
 - [Projektstruktur](#projektstruktur)
 - [Grenzen](#grenzen)
 - [Technik](#technik)
+- [Fazit](#fazit)
 
 ## Ausgangslage
 
